@@ -1,10 +1,10 @@
 ---
 layout: layouts/blog.njk
-title: Blog
-metaDescription: A sample Blog page listing various posts and authors.
+title: Shop
+metaDescription: A goods page listing various posts and authors.
 date: 2017-01-01
 permalink: /blog/index.html
 eleventyNavigation:
-  key: Blog
+  key: Shop
   order: 2
 ---

@@ -7,7 +7,9 @@ tags:
   - baking
   - cookies
 ---
-Go there now: [IDLE HOURS CO.](https://www.idlehours.co/shop)
+#### All products are for sale on our webshop so that we only have to pay one fee!
+
+#### Go there now: [IDLE HOURS CO.](https://www.idlehours.co/shop)
 
 Our flagship product. Exploring whole grain and vegan baking with 6 cookies. Delivered to your door or available for pickup at Cafe du Bonheur on the second Thursday of every month. 
 

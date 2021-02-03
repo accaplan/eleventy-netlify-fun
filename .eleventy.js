@@ -3,6 +3,7 @@ const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const eleventyGoogleFonts = require("eleventy-google-fonts");
 
 module.exports = function(eleventyConfig) {
 
@@ -18,6 +19,8 @@ module.exports = function(eleventyConfig) {
   // Merge data instead of overriding
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
+  // Add Google Fonts
+  eleventyConfig.addPlugin(eleventyGoogleFonts);
 
   // Add support for maintenance-free post authors
   // Adds an authors collection using the author key in our post frontmatter
@@ -80,7 +83,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("static/img");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
-  eleventyConfig.addPassthroughCopy("css/fonts");
+  eleventyConfig.addPassthroughCopy("static/css/fonts/");
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
   let markdownItAnchor = require("markdown-it-anchor");

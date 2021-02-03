@@ -83,7 +83,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("static/img");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
-  eleventyConfig.addPassthroughCopy("static/css/fonts/");
+  eleventyConfig.addPassthroughCopy("static/fonts");
+
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
   let markdownItAnchor = require("markdown-it-anchor");
@@ -102,7 +103,7 @@ module.exports = function(eleventyConfig) {
 
   return {
     templateFormats: ["md", "njk", "html", "liquid"],
-
+    passthroughFileCopy: true,
     // If your site lives in a different subdirectory, change this.
     // Leading or trailing slashes are all normalized away, so don’t worry about it.
     // If you don’t have a subdirectory, use "" or "/" (they do the same thing)

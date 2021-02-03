@@ -197,8 +197,8 @@ button {
 }
 @font-face {
 	font-family: Karrik;
-	src: url('static/css/fonts/Karrik-Regular.woff2') format('woff2'),
-			 url('static/css/fonts/Karrik-Regular.woff') format('woff');
+	src: url('static/fonts/Karrik-Regular.woff2') format('woff2'),
+			url('static/fonts/Karrik-Regular.woff') format('woff');
 }
 
 

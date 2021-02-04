@@ -1,8 +1,8 @@
 ---
-title: " Pack of Six Cookies"
+title: " Package of Six Cookies"
 date: 2020-10-15T12:23:39.598Z
 author: Ash
-summary: All products are for sale on our webshop so that we only have to pay one fee!
+summary: Our first product...
 tags:
   - baking
   - cookies

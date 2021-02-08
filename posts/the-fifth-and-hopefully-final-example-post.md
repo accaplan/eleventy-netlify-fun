@@ -1,5 +1,5 @@
 ---
-title: " Package of Six Cookies"
+title: SIX COOKIES
 date: 2020-10-15T12:23:39.598Z
 author: Ash
 summary: Our first product...

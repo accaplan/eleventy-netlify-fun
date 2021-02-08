@@ -17,10 +17,20 @@ Swiss grains, made in Zurich
 
 add 5 CHF for delivery...
 
-
-
 <a style="background:#ffa50b !important;color:#ffa5ff !important" data-id="paythen" href="https://app.paythen.co/company/superpotent/plan/8w9caofulw" id="payment-button">ONCE A WEEK</a><script type="text/javascript" src="https://paythen.co/App/js/modal-payment.js"></script>
 
+
+
+OR
+
+
+
 <a style="background:#ffa50b !important;color:#ffa5ff !important" data-id="paythen" href="https://app.paythen.co/company/superpotent/plan/k6thy3bqti" id="payment-button">TWICE PER MONTH</a><script type="text/javascript" src="https://paythen.co/App/js/modal-payment.js"></script>
+
+
+
+OR
+
+
 
 <a style="background:#ffa50b !important;color:#ffa5ff !important" data-id="paythen" href="https://app.paythen.co/company/superpotent/plan/pk1yxfuyaj" id="payment-button">ONCE PER MONTH</a><script type="text/javascript" src="https://paythen.co/App/js/modal-payment.js"></script>

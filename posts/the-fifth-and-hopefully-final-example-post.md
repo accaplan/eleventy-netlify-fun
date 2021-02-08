@@ -15,4 +15,6 @@ We have a whole grain, local sourced take on traditional cookies. We will usuall
 
 #### For a one time:  <a style="background:#fa740b !important;color:#ffa5ff !important" data-id="paythen" href="https://app.paythen.co/company/superpotent/plan/yhugwlgeso" id="payment-button">CLICK HERE TO PAY</a><script type="text/javascript" src="https://paythen.co/App/js/modal-payment.js"></script>
 
+#### OR
+
 #### For a subscription: <a style="background:#ffa50b !important;color:#ffa5ff !important" data-id="paythen" href="https://app.paythen.co/company/superpotent/plan/lxuaquwukq" id="payment-button">Pay now</a><script type="text/javascript" src="https://paythen.co/App/js/modal-payment.js"></script>

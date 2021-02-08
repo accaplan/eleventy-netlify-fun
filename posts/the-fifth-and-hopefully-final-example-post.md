@@ -7,10 +7,6 @@ tags:
   - baking
   - cookies
 ---
-#### For a one time:  <a style="background:#fa740b !important;color:#ffa5ff !important" data-id="paythen" href="https://app.paythen.co/company/superpotent/plan/yhugwlgeso" id="payment-button">CLICK HERE TO PAY</a><script type="text/javascript" src="https://paythen.co/App/js/modal-payment.js"></script>
-
-#### For a subscription: <a style="background:#ffa50b !important;color:#ffa5ff !important" data-id="paythen" href="https://app.paythen.co/company/superpotent/plan/lxuaquwukq" id="payment-button">Pay now</a><script type="text/javascript" src="https://paythen.co/App/js/modal-payment.js"></script>
-
 Our flagship product. Exploring whole grain and vegan baking with 6 cookies. Delivered to your door or available for pickup at Cafe du Bonheur on the second Thursday of every month. 
 
 ![A cookie illustration](/static/img/c4b19cb8-f5a9-4db0-942e-43f88b1af502.jpg "Cookie Monsta")

@@ -13,4 +13,8 @@ eleventyNavigation:
 ---
 Thanks for being here, and yes we would like to hear from you.
 
+E-mail us at info@superpotent.world
+
+or
+
 Drop us a note below

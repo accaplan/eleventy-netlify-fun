@@ -1,5 +1,5 @@
 :root {
-	--primary: rgb(255, 116, 11);
+	--primary: #3c8650;
 	--secondary:  #ffffff;
 	--background: #ffffff;
 }
@@ -13,7 +13,7 @@ body {
 	padding: 0;
 	margin: 0;
 	font-family: 'Karrik', sans-serif;
-	color: rgb(255, 116, 11);
+	color: #3c8650;
 }
 
 body {
@@ -180,7 +180,7 @@ button {
 
 input,
 textarea {
-	border: 1px solid  rgb(255, 116, 11);
+	border: 1px solid  #3c8650;
 }
 
 button {

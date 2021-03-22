@@ -14,6 +14,7 @@ body {
 	margin: 0;
 	font-family: 'Karrik', sans-serif;
 	color: #3c8650;
+	justify-content: center;
 }
 
 body {
@@ -51,6 +52,10 @@ header,
 main,
 footer {
 	padding: 1em;
+}
+
+header {
+	text-align: center;
 }
 
 main {
@@ -197,8 +202,8 @@ button {
 }
 @font-face {
 	font-family: Karrik;
-	src: url('/static/fonts/Karrik-Regular.woff2') format('woff2'),
-			url('/static/fonts/Karrik-Regular.woff') format('woff');
+	src: url('/static/fonts/WremenaBold.woff2') format('woff2'),
+			url('/static/fonts/WremenaBold.woff') format('woff');
 }
 
 

@@ -1,13 +1,13 @@
 ---
-title: SIX COOKIES
+title: ESOTERIC COOKIES
 date: 2020-10-15T12:23:39.598Z
 author: Ash
-summary: Our first product...
+summary: Back again...
 tags:
   - baking
   - cookies
 ---
-Our flagship product. Exploring whole grain and vegan baking with 6 cookies. Delivered to your door or available for pickup at Cafe du Bonheur on the second Thursday of every month. 
+Making cookies from the hearth.
 
 ![A cookie illustration](/static/img/c4b19cb8-f5a9-4db0-942e-43f88b1af502.jpg "Cookie Monsta")
 

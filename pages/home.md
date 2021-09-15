@@ -9,4 +9,4 @@ eleventyNavigation:
 ---
 # Welcome
 
-This the world of Superpotent. A Zurich based food collective. The project explores local food production, preservation and zero waste cooking and baking. We sell products and there are plans to have pop-ups, catering, and workshops. See above to find out more and also view our goods for sale.
+A journal, research platform, collective. Established by the good people at the IDLE HOURS company to explore the earth and it's life-giving capacity. Read more in our[Journal](../journal). Or visit us on [Instagram](https://www.instagram.com/densejournal "Dense Journal")

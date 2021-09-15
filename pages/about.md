@@ -12,7 +12,7 @@ eleventyNavigation:
 ---
 
 
-A project born out of a love for cooking, baking, fermenting, brewing, gathering. Food brings it all together. Less of a business per se, I think of it as a way to be a part of the Zurich food scene, and make some products I believe in. I also will use it as a platform to explore local source, seasonal produce, grains, biodynamic and regenerative agriculture, zero waste, and foraging. It has no specific goals, except to be honest and have fun.
+A new project from the IDLE HOURS company. Exploring the realm of materiality and food from the lens of regenerative agriculture and reciprocity. How can we make and feed ourselves from the land that is not only equal but beneficial?
 
 
 
